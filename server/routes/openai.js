@@ -1,0 +1,1 @@
+// Not decoupling routes and controllers this time around due to the scope and simplicity of the project - may change in the future 
